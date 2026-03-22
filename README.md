@@ -1,10 +1,10 @@
-
-<img src="https://github.com/user-attachments/assets/cbdb6b14-796f-49ae-b9ea-93e4df01aedc" width=235 height=490>
-<img src="https://github.com/user-attachments/assets/ec56fa22-1242-4ff2-a2e6-bbf79600d77c" width=235 height=490>
-<img src="https://github.com/user-attachments/assets/fc7155c4-6061-4742-9753-12cf37bda9ca" width=235 height=490> 
-<img src="https://github.com/user-attachments/assets/249ef1b6-08a5-4635-b73d-7bfc448c7554" width=235 height=490>
-<img src="https://github.com/user-attachments/assets/caf28d24-53a9-4289-ba14-0e480d940261" width=235 height=490> 
-<img src="https://github.com/user-attachments/assets/7323029e-54b4-4478-835c-0a67bdc48932" width=235 height=490>
+<img src="https://github.com/user-attachments/assets/f7e60aa4-573e-464f-8840-702f114a56f7" width=235 height=490>
+<img src="https://github.com/user-attachments/assets/af7382fe-7d3f-4010-b2c9-d00d94ff825d" width=235 height=490>
+<img src="https://github.com/user-attachments/assets/1724c78d-7623-45a2-9fa8-c6bac01da131" width=235 height=490>
+<img src="https://github.com/user-attachments/assets/15b842eb-4c4d-4256-9fc3-b382583ee0ca" width=235 height=490> 
+<img src="https://github.com/user-attachments/assets/ba5364c5-7b3b-4948-b210-f0394707567d" width=235 height=490>
+<img src="https://github.com/user-attachments/assets/dfe8a619-b46c-41f7-91a5-dfe9615c9b1c" width=235 height=490> 
+<img src="https://github.com/user-attachments/assets/63cd4f87-50b7-474a-9229-729aa4d38a46" width=235 height=490>
 
 
 Galaxy MaxHz[^2]
@@ -54,9 +54,11 @@ Galaxy MaxHz[^2]
 #### Extras
 
 * Battery protection mod[premium][^1] (for OneUI4+)
-    * Option to set different maximum charge limit other than stock limit
+    * Option to suspend charging by thermal thresholds
+    * Option to customize charge limit and recharge level
     * Pass-through mode (battery by-pass) with customizable threshold on supported models.
-    * Option to scheduled maximum charge limits and/or pass-through.
+    * Set schedules for charge limits and/or pass-through.
+
 
 * Animation mod[^1]
     * Easily adjust animation duration and scale
